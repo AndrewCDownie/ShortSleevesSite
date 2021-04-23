@@ -1,0 +1,43 @@
+body {
+    background-color:white;
+}
+#mainNav {
+    border-color: Black;
+    background-color: white;
+    transition: all .35s;
+    font-family: monospace;
+    font-weight: 200;
+    letter-spacing: 1px;
+  }
+h1 {
+    font-family: "Courier New", monospace;
+    text-align: center;
+}
+
+li{
+    font-family: "Courier New", monospace;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Courier New", monospace;
+}
+
+h5 {
+    font-family: "Courier New", monospace;
+    text-align: center;
+    word-wrap: break-word;
+}
+p{
+    font-family: "Courier New", monospace;
+    text-align: center;
+    word-wrap: break-word;
+}
+ul{
+    list-style-type: none;
+}
+
+
+
+
+
